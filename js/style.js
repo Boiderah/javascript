@@ -30,38 +30,38 @@
 
 
 
-// function healthcodition(heartbeat) {
-// if (heartbeat<=40) {
-//     console.log("you are sick");
-// }
-// else if (heartbeat<=70) {
-//     console.log("you are normal");
-// }
-// else{
-//     console.log("you are great");
-// }
-// }
-// healthcodition(99)
+function healthcodition(heartbeat) {
+if (heartbeat<=40) {
+    console.log("you are sick");
+}
+else if (heartbeat<=70) {
+    console.log("you are normal");
+}
+else{
+    console.log("you are great");
+}
+}
+healthcodition(99)
 
 
 
-// function decodeColor( code ) {
-//     switch( code) {
-// 	case 1:
-// 		console.log( 'Red' );
-// 		break;
-// 	case 2:
-// 		console.log( 'Yellow' );
-// 		break;
-// 	case "x":
-// 		console.log( 'Green' );
-// 		break;
-// 	default:
-// 		console.log( 'Unknown code' );
-// 	}
-// }
+function decodeColor( code ) {
+    switch( code) {
+	case 1:
+		console.log( 'Red' );
+		break;
+	case 2:
+		console.log( 'Yellow' );
+		break;
+	case "x":
+		console.log( 'Green' );
+		break;
+	default:
+		console.log( 'Unknown code' );
+	}
+}
 
-// decodeColor(1)
+decodeColor(1)
 
 
 
