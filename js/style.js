@@ -1,30 +1,30 @@
-// alert("dont trust me i'm bad and wicked!")
-// let choice=confirm("dont trust me i'm bad and wicked!")
-// let x =prompt("dont trust me i'm bad and wicked!")
-// if(choice){
-//     alert(x)
-// }
+alert("dont trust me i'm bad and wicked!")
+let choice=confirm("dont trust me i'm bad and wicked!")
+let x =prompt("dont trust me i'm bad and wicked!")
+if(choice){
+    alert(x)
+}
 
-// function checkifnumber(N) {
-//     if (typeof N=='number'){
-//         console.log(N + 'is a number')
-//     }
+function checkifnumber(N) {
+    if (typeof N=='number'){
+        console.log(N + 'is a number')
+    }
     
-// }
+}
 
 
 
-// function checkifnumber(wise) {
-//     if (typeof (wise)=='number') {
-//         console.log(`${wise} is a number`);
-//     } else{
-//         console.log(`${wise} is not a number`)
-//     }
+function checkifnumber(wise) {
+    if (typeof (wise)=='number') {
+        console.log(`${wise} is a number`);
+    } else{
+        console.log(`${wise} is not a number`)
+    }
     
-// }
+}
 
-// checkifnumber(66)
-// checkifnumber("win")
+checkifnumber(66)
+checkifnumber("win")
 
 
 
