@@ -106,3 +106,23 @@ function decodeColor( code ) {
 
 let mine=decodeColor(1)
 console.log(mine);
+
+
+
+function name(a,b) {
+	if (a+b>=100) {
+		console.log(true);
+	}
+	else{
+		console.log(false);
+	}
+}
+
+
+let num=0
+for ( el of object) {
+	if (el=== true) {
+		num++
+	}
+}
+return num
