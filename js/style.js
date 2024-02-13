@@ -109,14 +109,14 @@ console.log(mine);
 
 
 
-function name(a,b) {
-	if (a+b>=100) {
-		console.log(true);
-	}
-	else{
-		console.log(false);
-	}
-}
+// function name(a,b) {
+// 	if (a+b>=100) {
+// 		console.log(true);
+// 	}
+// 	else{
+// 		console.log(false);
+// 	}
+// }
 
 
 let num=0
