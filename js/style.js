@@ -126,3 +126,17 @@ for ( el of object) {
 	}
 }
 return num
+
+
+let arr1 = [`a`,`b`,`c`,`d`,`e`,`f`];
+let arr2 = [`d`,`e`,`f`];
+arr2.pop()
+arr2.push("g")
+// const arr3 = arr1.concat(arr2)
+// console.log(arr3);
+
+// arr1.splice(2,1 `c`,`d`,`e`,`f`)
+// console.log(arr1)
+
+let strr = arr1.slice(2,5)
+console.log(strr);
