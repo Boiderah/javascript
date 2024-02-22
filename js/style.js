@@ -136,7 +136,11 @@ arr2.push("g")
 // console.log(arr3);
 
 // arr1.splice(2,1 `c`,`d`,`e`,`f`)
+// splice is a procedure because it dosent have a return statement and it dosen't change the funtion
 // console.log(arr1)
 
 let strr = arr1.slice(2,5)
+//  slice is a function becauce it has return statement and it changes the function
 console.log(strr);
+
+// in js both splice and slice is called a function
